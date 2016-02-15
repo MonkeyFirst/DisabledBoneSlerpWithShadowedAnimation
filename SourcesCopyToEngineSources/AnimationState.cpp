@@ -451,7 +451,6 @@ void AnimationState::ApplyToModel()
 
         // Do not apply if zero effective weight or the bone has animation disabled
         if (Equals(finalWeight, 0.0f) || (!stateTrack.bone_->animated_ && !stateTrack.bone_->shadowedAnimated_))
-        if (Equals(finalWeight, 0.0f))
             continue;
 
         if (Equals(finalWeight, 1.0f))
