@@ -1,0 +1,11 @@
+[Mon Feb 15 14:21:48 2016] INFO: Opened log file Application.log
+[Mon Feb 15 14:21:48 2016] INFO: Created 3 worker threads
+[Mon Feb 15 14:21:48 2016] INFO: Added resource path C:/TailGen2 — копия/bin/Data/
+[Mon Feb 15 14:21:48 2016] INFO: Added resource path C:/TailGen2 — копия/bin/CoreData/
+[Mon Feb 15 14:21:48 2016] INFO: Set screen mode 1235x678 windowed
+[Mon Feb 15 14:21:48 2016] INFO: Initialized input
+[Mon Feb 15 14:21:48 2016] INFO: Initialized user interface
+[Mon Feb 15 14:21:48 2016] ERROR: Could not find resource Textures/Area.png
+[Mon Feb 15 14:21:48 2016] INFO: Initialized renderer
+[Mon Feb 15 14:21:48 2016] INFO: Initialized engine
+[Mon Feb 15 14:21:48 2016] INFO: Loading scene from C:/TailGen2 — копия/bin/Data/Scenes/Scene1.xml

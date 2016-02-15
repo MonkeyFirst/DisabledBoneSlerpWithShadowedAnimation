@@ -1,0 +1,61 @@
+[Mon Feb 15 14:15:36 2016] INFO: Opened log file Application.log
+[Mon Feb 15 14:15:36 2016] INFO: Created 3 worker threads
+[Mon Feb 15 14:15:36 2016] INFO: Added resource path C:/TailGen2/bin/Data/
+[Mon Feb 15 14:15:36 2016] INFO: Added resource path C:/TailGen2/bin/CoreData/
+[Mon Feb 15 14:15:36 2016] DEBUG: Skipped autoload path 'Autoload' as it does not exist, check the documentation on how to set the 'resource prefix path'
+[Mon Feb 15 14:15:36 2016] INFO: Set screen mode 1235x678 windowed
+[Mon Feb 15 14:15:36 2016] INFO: Initialized input
+[Mon Feb 15 14:15:36 2016] INFO: Initialized user interface
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Textures/Ramp.png
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading temporary resource Textures/Ramp.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Textures/Spot.png
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading temporary resource Textures/Spot.xml
+[Mon Feb 15 14:15:36 2016] ERROR: Could not find resource Textures/Area.png
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Techniques/NoTexture.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource RenderPaths/Forward.xml
+[Mon Feb 15 14:15:36 2016] INFO: Initialized renderer
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource UI/MessageBox.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading UI layout UI/MessageBox.xml
+[Mon Feb 15 14:15:36 2016] INFO: Initialized engine
+[Mon Feb 15 14:15:36 2016] INFO: Loading scene from C:/TailGen2/bin/Data/Scenes/Scene1.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/Plane.mdl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Materials/Stone.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Techniques/DiffNormalPacked.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Techniques/Diff.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Textures/StoneDiffuse.dds
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Textures/StoneNormal.dds
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/Jack.mdl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/Sphere.mdl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/Box.mdl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/Suzanne.mdl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Models/ArmatureAction.ani
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource UI/DefaultStyle.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Textures/UI.png
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading temporary resource Textures/UI.xml
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Fonts/Anonymous Pro.ttf
+[Mon Feb 15 14:15:36 2016] DEBUG: Font face Anonymous Pro (11pt) has 624 glyphs
+[Mon Feb 15 14:15:36 2016] DEBUG: Reloading shaders
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Shaders/GLSL/Shadow.glsl
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Shaders/GLSL/LitSolid.glsl
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader Shadow(INSTANCED)
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled pixel shader Shadow()
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader Shadow(INSTANCED) and pixel shader Shadow()
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader Shadow()
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader Shadow() and pixel shader Shadow()
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled pixel shader LitSolid(AMBIENT DIFFMAP NORMALMAP PACKEDNORMAL PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader LitSolid(NORMALMAP PERPIXEL POINTLIGHT SHADOW) and pixel shader LitSolid(AMBIENT DIFFMAP NORMALMAP PACKEDNORMAL PCF_SHADOW PERPIXEL POINTLIGHT SHADOW SPECULAR)
+[Mon Feb 15 14:15:36 2016] WARNING: Shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW) does not use the define NOUV
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled pixel shader LitSolid(AMBIENT PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW) and pixel shader LitSolid(AMBIENT PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] DEBUG: Loading resource Shaders/GLSL/Basic.glsl
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader Basic(DIFFMAP VERTEXCOLOR)
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader Basic(DIFFMAP VERTEXCOLOR) and pixel shader Basic(ALPHAMAP VERTEXCOLOR)
+[Mon Feb 15 14:15:36 2016] WARNING: Shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW SKINNED) does not use the define NOUV
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW SKINNED)
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader LitSolid(NOUV PERPIXEL POINTLIGHT SHADOW SKINNED) and pixel shader LitSolid(AMBIENT PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] WARNING: Shader LitSolid(INSTANCED NOUV PERPIXEL POINTLIGHT SHADOW) does not use the define NOUV
+[Mon Feb 15 14:15:36 2016] DEBUG: Compiled vertex shader LitSolid(INSTANCED NOUV PERPIXEL POINTLIGHT SHADOW)
+[Mon Feb 15 14:15:36 2016] DEBUG: Linked vertex shader LitSolid(INSTANCED NOUV PERPIXEL POINTLIGHT SHADOW) and pixel shader LitSolid(AMBIENT PCF_SHADOW PERPIXEL POINTLIGHT SHADOW)
